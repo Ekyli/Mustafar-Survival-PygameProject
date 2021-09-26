@@ -23,3 +23,5 @@
   **ESC** : retour/quitter la partie
 
 ![Survival Game Briefing](https://github.com/Ekyli/Mustafar-Survival-PygameProject/blob/main/img/miniature_projet_briefing.PNG?raw=true)
+
+### Bonne partie
