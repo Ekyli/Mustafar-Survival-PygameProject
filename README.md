@@ -13,7 +13,7 @@
 # Commandes de Mustafar Survival
 
   ## Menu principal
-  **(Clic gauche)** : jouer <br>
+  **(clic gauche)** : jouer <br>
   **I** : lire le briefing (inintéressant)
   
   ## In-game
