@@ -26,9 +26,9 @@
 
 # Features
 
-  Eliminer les aliens,
-  Difficulté du jeu illimitée
-  Points de vie et barre d'armure du joueur
+  Eliminer les aliens <br>
+  Difficulté du jeu illimitée <br>
+  Points de vie et barre d'armure du joueur <br>
   Les aliens spawnent de couleur aléatoire, avec des couleurs de laser respectives (cosmétique)
 
 ### Bonne partie
