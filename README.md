@@ -1,6 +1,6 @@
 # Pygame project : MUSTAFAR SURVIVAL
 
-<img align="center" width="300" src="https://imgur.com/BnGibgZ">
+![Survival Game Overview](/img/miniature_projet.png)
 
 # Prérequis
 • Prévois une version de Python > 3.4 installée dans ton IDE
@@ -20,4 +20,4 @@
   **↑↓→←** : touches classiques de déplacement de ton vaisseau <br>
   **A** : tirer (j'aurais bien aimé configurer avec la barre espace, mais cette manip m'empêche de déplacer mon vaisseau diagonalement, va savoir pourquoi...)
 
-<img align="center" width="300" src="https://imgur.com/O5Fd4pe">
+![Survival Game Briefing](/img/miniature_projet_briefing.png)
