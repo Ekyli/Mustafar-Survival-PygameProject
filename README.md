@@ -1,5 +1,7 @@
 # Pygame project : MUSTAFAR SURVIVAL
 
+<img align="center" width="300" src="https://imgur.com/BnGibgZ">
+
 # Prérequis
 • Prévois une version de Python > 3.4 installée dans ton IDE
 
@@ -10,10 +12,12 @@
   
 # Commandes de Mustafar Survival
 
-  # Menu principal
-  **(Clic gauche)** : jouer
+  ## Menu principal
+  **(Clic gauche)** : jouer <br>
   **I** : lire le briefing (inintéressant)
   
-  # In-game
-  **↑↓→←** : touches classiques de déplacement de ton vaisseau
+  ## In-game
+  **↑↓→←** : touches classiques de déplacement de ton vaisseau <br>
   **A** : tirer (j'aurais bien aimé configurer avec la barre espace, mais cette manip m'empêche de déplacer mon vaisseau diagonalement, va savoir pourquoi...)
+
+<img align="center" width="300" src="https://imgur.com/IHNhCxD">
