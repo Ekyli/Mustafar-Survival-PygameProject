@@ -3,7 +3,8 @@ from constantes import *
 
 class Ship:
    
-    COOLDOWN = 30
+    
+    COOLDOWN = 30 # (1/2 seconde car FPS = 60)
    
     def __init__(self, x, y, health = 100):
         self.x = x
