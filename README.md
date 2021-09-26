@@ -19,5 +19,7 @@
   ## In-game
   **↑↓→←** : touches classiques de déplacement de ton vaisseau <br>
   **A** : tirer (j'aurais bien aimé configurer avec la barre espace, mais cette manip m'empêche de déplacer mon vaisseau diagonalement, va savoir pourquoi...)
+  
+  **ESC** : retour/quitter la partie
 
 ![Survival Game Briefing](https://github.com/Ekyli/Mustafar-Survival-PygameProject/blob/main/img/miniature_projet_briefing.PNG?raw=true)
