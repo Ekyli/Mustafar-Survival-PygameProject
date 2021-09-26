@@ -20,4 +20,4 @@
   **↑↓→←** : touches classiques de déplacement de ton vaisseau <br>
   **A** : tirer (j'aurais bien aimé configurer avec la barre espace, mais cette manip m'empêche de déplacer mon vaisseau diagonalement, va savoir pourquoi...)
 
-<img align="center" width="300" src="https://imgur.com/IHNhCxD">
+<img align="center" width="300" src="https://imgur.com/O5Fd4pe">
