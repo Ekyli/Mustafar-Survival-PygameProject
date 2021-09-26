@@ -24,4 +24,11 @@
 
 ![Survival Game Briefing](https://github.com/Ekyli/Mustafar-Survival-PygameProject/blob/main/img/miniature_projet_briefing.PNG?raw=true)
 
+# Features
+
+  Eliminer les aliens,
+  Difficulté du jeu illimitée
+  Points de vie et barre d'armure du joueur
+  Les aliens spawnent de couleur aléatoire, avec des couleurs de laser respectives (cosmétique)
+
 ### Bonne partie
