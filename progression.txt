@@ -1,0 +1,16 @@
+FEATURES
+- level : infini, + en + difficile
+	"Je gagne un PV"
+	"3 ennemis en plus"
+	"le laser est plus rapide (joueur comme alien)
+- 2 systèmes de vie
+	PV : Si l'alien traverse le bas de l'écran
+	Armure : Si l'alien me touche avec son sprite ou son laser
+- génération ennemis par couleur (cosmétique, pas d'impact difficulté dans le jeu)
+- retour à l'écran-titre si je perds
+
+
+TACHES
+- Dynamiser le design
+- Son
+- Réparer cooldown tir player
