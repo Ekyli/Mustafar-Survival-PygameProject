@@ -6,7 +6,7 @@
 • Prévois une version de Python > 3.4 installée dans ton IDE
 
 # Instructions
-• Pour un bon fonctionnement, ouvre le projet entier dans ton IDE.
+• Pour un bon fonctionnement, ouvre le projet entier dans ton IDE. <br>
 • Pour lancer le jeu, exécute le fichier main.py avec la ligne de commande ci-dessous, ou bien avec une fonctionnalité de ton IDE pour exécuter python. Si tu l'exécutes depuis un terminal, veille bien à te positionner dans le dossier "/src" :
 > **python main.py**
   
@@ -26,9 +26,9 @@
 
 # Features
 
-  Eliminer les aliens <br>
-  Difficulté du jeu illimitée <br>
-  Points de vie et barre d'armure du joueur <br>
-  Les aliens spawnent de couleur aléatoire, avec des couleurs de laser respectives (cosmétique)
+• Eliminer les aliens <br>
+• Difficulté du jeu illimitée <br>
+• Points de vie et barre d'armure du joueur <br>
+• Les aliens spawnent de couleur aléatoire, avec des couleurs de laser respectives (cosmétique)
 
 ### Bonne partie
