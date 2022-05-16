@@ -7,6 +7,9 @@
 
 # Instructions
 • Pour un bon fonctionnement, ouvre le projet entier dans ton IDE. <br>
+• Avant de lancer le jeu, pygame est requis avec la commande : 
+> **pip install pygame**
+
 • Pour lancer le jeu, exécute le fichier main.py avec la ligne de commande ci-dessous, ou bien avec une fonctionnalité de ton IDE pour exécuter python. Si tu l'exécutes depuis un terminal, veille bien à te positionner dans le dossier "/src" :
 > **python main.py**
   
@@ -18,6 +21,7 @@
   
   ## In-game
   **↑↓→←** : touches classiques de déplacement de ton vaisseau <br>
+  
   **A** : tirer (j'aurais bien aimé configurer avec la barre espace, mais cette manip m'empêche de déplacer mon vaisseau diagonalement, va savoir pourquoi...)
   
   **ESC** : retour/quitter la partie
